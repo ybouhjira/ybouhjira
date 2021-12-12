@@ -11,7 +11,7 @@ I have been working since 2017 as a Javscript developer for [HSE](https://www.hs
 - 🔭 I’m currently working on: Getting my [Google UX Design Certificate](https://grow.google/uxdesign/) so I can better understand design as a developer.
 - 🌱 I’m currently learning: How to deploy and manage node.js app using AWS ECS, CDK and other services
 - 🤔 What I want to learn next: iOS native app developement 
-- 📫 How to reach me: `bouhira.youssef@gmail.com`
+- 📫 How to reach me: `bouhjira.youssef@gmail.com`
 
 ## 🔧 Tools I Like To Use
 
