@@ -25,6 +25,3 @@ I have been working since 2017 as a Javscript developer for [HSE](https://www.hs
 - [https://tailwindcss.com/](https://tailwindcss.com/)
 - [Storybook](https://storybook.js.org/)
 - [Sass](https://sass-lang.com/)
-
-## 🔧 All technologies I have used before
-PHP, Symfony, Laravel, MySQL, C, C++, Qt, Angular, Ionic, Typescript, Firebase, AWS, React, React native
