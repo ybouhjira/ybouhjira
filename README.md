@@ -22,6 +22,6 @@ I have been working since 2017 as a Javscript developer for [HSE](https://www.hs
 - [NestJS](https://nestjs.com/)
 - [AWS](https://aws.amazon.com/)
 - [Next.js](https://nextjs.org/)
-- [https://tailwindcss.com/](https://tailwindcss.com/)
+- [Tailwindcss](https://tailwindcss.com/)
 - [Storybook](https://storybook.js.org/)
 - [Sass](https://sass-lang.com/)
