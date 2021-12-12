@@ -4,7 +4,7 @@
 *Stackoverflow*: [https://stackoverflow.com/users/1233287/youssef-bouhjira](stackoverflow.com/users/1233287/youssef-bouhjira)
 
 👋 Hi, I'm Youssef. I'm a software engineer at [Imedia24](https://www.imedia24.de/). 
-I have been working since 2017 as a Javscript developer for [HSE](https://www.hse.de/) where I have worked within multipel multinational scrum teams to develop features for the main e-commerce website, intranet app, a large app SPA application used by Callcenter agent that I helped develop from scratch and a few mobile apps. During this time I have written mainly frontend React code, used express, java and kotlin in the backend and worked on integrating multiple third party services.
+I have been working since 2017 as a Javscript developer for [HSE](https://www.hse.de/) where I have worked within multiple multinational scrum teams to develop features for the main e-commerce website, intranet app, a large SPA application used by Callcenter agents that I helped develop from scratch and a few mobile apps. During this time I have written mainly frontend React code, used express, java and kotlin in the backend and worked on integrating multiple third party services.
 
 ## About Me
 
