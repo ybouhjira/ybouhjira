@@ -10,7 +10,7 @@ I have been working since 2017 as a Javscript developer for [HSE](https://www.hs
 ## About Me
 
 - 🌱 I’m currently learning: How to deploy and manage node.js app using AWS ECS, CDK and other services
-- 🤔 What I want to learn next: iOS native app developement 
+- 🤔 What I want to learn next: Building 3d web experiences wih WebGL
 - 📫 How to reach me: `bouhjira.youssef@gmail.com`
 
 ## 🔧 Tools I Like To Use
